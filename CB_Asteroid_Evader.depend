@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1516058985 source:c:\workspace\code\websiterepo\cb_asteroid_evader\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+	<string>
+	<sstream>
+	<math.h>
+	<fstream>
+	<iostream>
+
